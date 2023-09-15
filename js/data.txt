@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "SKU": "1",
+      "NFC ID": "Incs234",
+      "Product": "Car insurance",
+      "User Type": "User Type type 1",
+      "Policy": "Jesse Thomas",
+      "Premium": "$1200",
+      "Status": "In progress",
+      "Updated": "25/04/2020"
+    },{
+      "SKU": "2",
+      "NFC ID": "Incs235",
+      "Product": "Car insurance",
+      "User Type": "User Type type 2",
+      "Policy": "Jesse Thomas",
+      "Premium": "$1200",
+      "Status": "Active",
+      "Updated": "25/04/2020"
+    },{
+      "SKU": "3",
+      "NFC ID": "Incs235",
+      "Product": "Car insurance",
+      "User Type": "User Type type 2",
+      "Policy": "Jesse Thomas",
+      "Premium": "$1200",
+      "Status": "Expired",
+      "Updated": "25/04/2020"
+    },{
+      "SKU": "4",
+      "NFC ID": "Incs235",
+      "Product": "Car insurance",
+      "User Type": "User Type type 2",
+      "Policy": "Jesse Thomas",
+      "Premium": "$1200",
+      "Status": "In progress",
+      "Updated": "25/04/2020"
+    },{
+      "SKU": "5",
+      "NFC ID": "Incs235",
+      "Product": "Car insurance",
+      "User Type": "User Type type 2",
+      "Policy": "Jesse Thomas",
+      "Premium": "$1200",
+      "Status": "Active",
+      "Updated": "25/04/2020"
+    },{
+      "SKU": "6",
+      "NFC ID": "Incs235",
+      "Product": "Car insurance",
+      "User Type": "User Type type 2",
+      "Policy": "Jesse Thomas",
+      "Premium": "$1200",
+      "Status": "Active",
+      "Updated": "25/04/2020"
+    },{
+      "SKU": "7",
+      "NFC ID": "Incs235",
+      "Product": "Car insurance",
+      "User Type": "User Type type 2",
+      "Policy": "Jesse Thomas",
+      "Premium": "$1200",
+      "Status": "Active",
+      "Updated": "25/04/2020"
+    },{
+      "SKU": "8",
+      "NFC ID": "Incs235",
+      "Product": "Car insurance",
+      "User Type": "User Type type 2",
+      "Policy": "Jesse Thomas",
+      "Premium": "$1200",
+      "Status": "Expired",
+      "Updated": "25/04/2020"
+    },{
+      "SKU": "9",
+      "NFC ID": "Incs235",
+      "Product": "Car insurance",
+      "User Type": "User Type type 2",
+      "Policy": "Jesse Thomas",
+      "Premium": "$1200",
+      "Status": "Active",
+      "Updated": "25/04/2020"
+    },{
+      "SKU": "10",
+      "NFC ID": "Incs235",
+      "Product": "Car insurance",
+      "User Type": "User Type type 2",
+      "Policy": "Jesse Thomas",
+      "Premium": "$1200",
+      "Status": "In progress",
+      "Updated": "25/04/2020"
+    }
+
+    
+  ]
+}
